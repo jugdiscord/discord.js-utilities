@@ -1,7 +1,7 @@
 {
   "name": "discord.js-utilities",
   "version": "1.0.0",
-  "description": "",
+  "description": "A discord.js utilities package to help make your discord.js bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/jugdiscord/discord.js-utilities.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["discord.js", "discord.js-utilities", "discord-utilities"],
+  "author": "Zeyad-dev",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jugdiscord/discord.js-utilities/issues"
